@@ -5,8 +5,7 @@ import traceback
 import time
 import random
 
-def banner():
-    print(f"""
+print(f"""
  / \-----------------------------------------------------------| 
  \_,|    ___  _    ___              ___    _                     |
     |    | . \[_]  | . | ___  ___   / __] _| |_  ___  _ _  ___   |
@@ -21,8 +20,8 @@ def banner():
 
 sudo apt update && apt upgrade -y
 sudo apt install openshot-qt
-def banner():
-    print(f"""
+
+print(f"""
  / \-----------------------------------------------------------| 
  \_,|    ___  _    ___              ___    _                     |
     |    | . \[_]  | . | ___  ___   / __] _| |_  ___  _ _  ___   |
