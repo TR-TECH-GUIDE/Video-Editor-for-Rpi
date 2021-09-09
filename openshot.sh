@@ -8,8 +8,7 @@ print(gr+"/ \-----------------------------------------------------------|
                | ----------------------------------------------------------|
                |    Installing... OpenShot Video Editor   | 
                |  ,---------------------------------------
-               \_/
-     ")
+               \_/ ")
      
 os.system('sudo apt update && apt upgrade -y')
 os.system('sudo apt install openshot-qt')
