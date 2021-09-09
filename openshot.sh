@@ -6,8 +6,8 @@ print(gr+"/ \-----------------------------------------------------------|
                |           |_|  |_|                                         |
                | ----------------------------------------------------------|
                |    Installing... OpenShot Video Editor   | 
-               |  ,-----------------------------------------
-               \_/_____Modified By Tharuk Renuja____v1.0___/ ")
+               |  ,---------------------------------------
+               \_/
 os.system('sudo apt update && apt upgrade -y')
 os.system('sudo apt install openshot-qt')
 print(gr+"
@@ -20,5 +20,5 @@ print(gr+"
     | ----------------------------------------------------------|
     |    OpenShot Video Editor Installed Successfully⌛  | 
     |  ,------------------------------------------------
-    \_/_Added to Menu, Sound&Video > Open Shot Video Editor_/ 
+    \_/
         ")
