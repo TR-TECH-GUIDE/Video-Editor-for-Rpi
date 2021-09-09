@@ -1,9 +1,3 @@
-import configparser
-import os, sys
-import csv
-import traceback
-import time
-import random
 banner()
 print(f"""
  / \-----------------------------------------------------------| 
