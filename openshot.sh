@@ -4,7 +4,7 @@ import csv
 import traceback
 import time
 import random
-
+banner()
 print(f"""
  / \-----------------------------------------------------------| 
  \_,|    ___  _    ___              ___    _                     |
@@ -20,7 +20,7 @@ print(f"""
 
 sudo apt update && apt upgrade -y
 sudo apt install openshot-qt
-
+banner()
 print(f"""
  / \-----------------------------------------------------------| 
  \_,|    ___  _    ___              ___    _                     |
