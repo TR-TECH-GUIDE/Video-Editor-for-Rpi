@@ -1,5 +1,5 @@
 ## Video-Editor-for-Rpi
-#Open Shot Video Editor for Raspberry pi.
+# Open Shot Video Editor for Raspberry pi.
 <a href="OpenShot"><img src="https://cdn.openshot.org/static/img/gallery/ui-example.jpg"></a>
 
 ## Installation
