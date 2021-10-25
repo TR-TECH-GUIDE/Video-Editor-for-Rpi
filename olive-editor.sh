@@ -1,5 +1,5 @@
 sudo apt install sysvbanner -y
-banner Open Shot
+banner Olive Editor
 sudo apt update && apt upgrade -y
-sudo apt install openshot-qt -y
+sudo apt install olive-editor -y
 banner Done

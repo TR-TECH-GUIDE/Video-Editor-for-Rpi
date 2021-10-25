@@ -1,5 +1,5 @@
 sudo apt install sysvbanner -y
-banner Open Shot
+banner Flow Blade
 sudo apt update && apt upgrade -y
-sudo apt install openshot-qt -y
+sudo apt install flowblade -y
 banner Done
